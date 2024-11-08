@@ -23,7 +23,7 @@ public class Livro {
   public void alterarDisponilidade(boolean disponibilidade) {
         this.disponibilidade = disponibilidade;
   }
-  
+
 }
 
 
