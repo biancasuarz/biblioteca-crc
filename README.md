@@ -1,6 +1,6 @@
 # 📚 Sistema de Biblioteca - CRC
 
-Sistema de Biblioteca desenvolvido com CRC (Classes, Responsabilidades e Colaborações) para estudo e prática da modelagem de sistemas orientados a objetos. Este projeto simula um ambiente de biblioteca onde livros, usuários e empréstimos interagem através de classes colaborativas.
+Sistema de Biblioteca desenvolvido com CRC (Classes, Responsabilidades e Colaborações), conforme os ensinamentos do curso de Orientação a Objetos do  **_Instituto de Tecnologia Aeronáutica (ITA)_**.  Este projeto simula um ambiente de biblioteca onde livros, usuários e empréstimos interagem através de classes colaborativas.
 
 #### Objetivo do Projeto
 O projeto tem como objetivo consolidar o aprendizado sobre CRC, abordando a identificação de classes, responsabilidades e colaborações em um contexto realista de biblioteca. Essa técnica permite projetar sistemas com uma estrutura organizada e lógica, facilitando a manutenção e escalabilidade.
